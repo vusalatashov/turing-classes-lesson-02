@@ -26,12 +26,18 @@ public class WhileLoop {
 //        }
 //        int correctPassword =12345678;
 //        int password;
+//        int count = 1;
 //        do {
 //            System.out.println("Password is incorrect");
 //            System.out.print("Enter password : ");
 //            password = scanner.nextInt();
+//            System.out.println(count);
+//            count++;
+//            if (count==3){
+//                break;
+//            }
 //        }while (password != correctPassword);
-//
+
 //
 //
 //
