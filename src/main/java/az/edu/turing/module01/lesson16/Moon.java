@@ -1,8 +1,8 @@
 package az.edu.turing.module01.lesson16;
 
+
 import java.util.Arrays;
 import java.util.Objects;
-
 
 public class Moon {
     private  int number=0;
